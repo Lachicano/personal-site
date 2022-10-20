@@ -1,0 +1,54 @@
+body {
+    margin: 30px auto;
+    background-image: url(images/Firefox_logo\,_2019.svg.png);
+   background-size: 50%;
+   background-repeat: no-repeat;
+   background-color: aquamarine;
+   
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    border: 2px doted blue;
+    background-color: #d2d2f4;
+    width: 500px;
+    height: 50px;
+    display: flex;
+    margin: 30px auto;
+    
+}
+
+.inner-box {
+    height: 100%;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 2em;
+
+}
+
+.last-inner-box {
+    background-color: purple;
+}
+
+
+h2 {
+    color: green;
+    margin: auto;
+    text-decoration: dotted black;
+}
+
+p {
+    color: black;
+    font-size: 1.5em;
+    text-align: left;
+    
+}
